@@ -3,6 +3,7 @@
 This project is a responsive landing page for headphones, created as a frontend practice exercise using HTML, CSS, and JavaScript.
 
 ## Preview
+[View Site](https://beatsaudio.netlify.app/)
 
 ![](/preview.png)
 
